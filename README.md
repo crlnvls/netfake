@@ -1,3 +1,3 @@
 # Netflix Clone
 
-A simple Netflix home pages using React.
+A simple Netflix home page using React.
